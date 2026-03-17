@@ -1,0 +1,25 @@
+/*
+body {
+background-image: url(../img/img_mountain.jpg);
+backgrouend-position: right top;
+background-repeat: no-repeat;
+
+font-family:  “brush script MT“, “Lucida Handwriting“, cursive;
+font-weight: 300;
+font-size 15px;
+
+font-family: ;
+font-weight: ;
+font-style: ;
+font-size: ;
+line-height: ;
+letter-spacing: ;
+}
+/*
+
+body {
+/*shorthand*/
+
+background: url(../img/bee.jpg) right top/200px
+
+font: italic 300 15px  “Lucida Handwriting“;
